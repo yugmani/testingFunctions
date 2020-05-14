@@ -6,7 +6,7 @@ In this activity you will be writing code to create functions capable of differe
 
 ## Instructions
 
-- Open [Unsolved/arithmetic.js](Unsolved/arithmetic.js) in your code editor -- **this is the only file you will modify in this activity.**
+- Open [arithmetic.js](arithmetic.js) in your code editor -- **this is the only file you will modify in this activity.**
 
   - In this file you will be writing code in the body of each function defined to accomplish the following:
 
